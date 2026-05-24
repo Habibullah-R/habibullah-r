@@ -8,7 +8,7 @@
 *1+ year of crafting scalable, pixel-perfect web experiences with the MERN & Next.js stack*
 
 [![Email](https://img.shields.io/badge/✉_EMAIL-habibullahrashid150%40gmail.com-FF6B6B?style=for-the-badge&labelColor=0d1117)](mailto:habibullahrashid150@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-YOUR__USERNAME-6e40c9?style=for-the-badge&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-habibullah--r-6e40c9?style=for-the-badge&labelColor=0d1117)](https://github.com/habibullah-r)
 
 </div>
 
@@ -124,9 +124,9 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibullah-r&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibullah-r&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
 
 </div>
 
