@@ -124,10 +124,6 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-chi.vercel.app/api?username=habibullah-r&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats-eight-chi.vercel.app/api/top-langs/?username=habibullah-r&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=habibullah-r&theme=radical&hide_border=true&background=0d1117&stroke=00BFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00BFFF)
 
 </div>
