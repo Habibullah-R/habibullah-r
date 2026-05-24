@@ -39,17 +39,17 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ✅ Frontend Developer
-**2024 – Present**
+**2025 – Present**
 - Interactive & responsive apps with React, Next.js, Tailwind CSS
 - Seamless integration with cross-functional teams
 
 </td>
 <td valign="top" width="50%">
 
-### 📱 Mobile App Development
-**2024 – Present**
-- High-performance mobile apps using React Native
-- Optimized UX & performance across platforms
+### 🧩 Full Stack Developer
+**2025 – Present**
+- End-to-end development of web applications from UI to database
+- Building and deploying scalable, production-ready systems
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ⚙️ Backend Development
-**2024 – Present**
+**2025 – Present**
 - Robust server-side logic with Node.js, Express, MongoDB
 - RESTful APIs & third-party integrations
 
@@ -65,7 +65,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ⚡ Performance Optimization
-**2024 – Present**
+**2025 – Present**
 - Speed audits & optimization (Core Web Vitals, Lighthouse)
 - Delivered exceptional user experiences
 
@@ -85,7 +85,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -100,9 +100,9 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 <div align="center">
 
-| 🌐 Web Development | 📱 Mobile Apps | 🔍 SEO |
+| 🌐 Web Development | 🧩 Full Stack | 🔍 SEO |
 |:---:|:---:|:---:|
-| React · Next.js · Vue.js | React Native | On-page & technical SEO |
+| React · Next.js · Vue.js | MERN · Next.js | On-page & technical SEO |
 
 | ⚙️ Backend | ⚡ Performance |
 |:---:|:---:|
