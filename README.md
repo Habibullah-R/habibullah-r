@@ -1,13 +1,141 @@
-<h1 align="center">Hi 👋, I'm Habibullah</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/habibullah-rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habibullah-rashid" height="30" width="40" /></a>
-</p>
+# ⚡ Ejaz Ali
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Problem Solver & Full-Stack Architect**
 
+📍 Based in Skardu, Pakistan  
+*3+ years of crafting scalable, pixel-perfect web experiences with the MERN & Next.js stack*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibullah-r&" alt="habibullah-r" /></p>
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-ejaz--developer.me-00BFFF?style=for-the-badge&labelColor=0d1117)](https://ejaz-developer.me)
+[![Email](https://img.shields.io/badge/✉_EMAIL-devpro.ejazali36%40gmail.com-FF6B6B?style=for-the-badge&labelColor=0d1117)](mailto:devpro.ejazali36@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-ejaz--developer-6e40c9?style=for-the-badge&labelColor=0d1117)](https://github.com/ejaz-developer)
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-@ejazali__dev-E1306C?style=for-the-badge&labelColor=0d1117)](https://instagram.com/ejazali_dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Crafting High-Performance Digital Experiences
+
+</div>
+
+I'm a full-stack developer focused on building clean, performant, and user-centric web applications. My approach combines technical excellence with a keen eye for design, ensuring every project is not just functional, but a delight to use.
+
+<div align="center">
+
+| 🏅 Experience | 🚀 Projects | 🧰 Tech Stack |
+|:---:|:---:|:---:|
+| **3+ Years** | **5+ Completed** | **10+ Technologies** |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ✅ Frontend Developer
+**2021 – Present**
+- Interactive & responsive apps with React, Next.js, Tailwind CSS
+- Seamless integration with cross-functional teams
+
+</td>
+<td valign="top" width="50%">
+
+### 📱 Mobile App Development
+**2023 – Present**
+- High-performance mobile apps using React Native
+- Optimized UX & performance across platforms
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ Backend Development
+**2018 – Present**
+- Robust server-side logic with Node.js, Express, MongoDB
+- RESTful APIs & third-party integrations
+
+</td>
+<td valign="top" width="50%">
+
+### ⚡ Performance Optimization
+**2017 – Present**
+- Speed audits & optimization (Core Web Vitals, Lighthouse)
+- Delivered exceptional user experiences
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🔥 Solving Problems With Digital Precision
+
+I combine technical mastery with creative intuition to deliver solutions that are not only functional but truly memorable.
+
+<div align="center">
+
+| 🌐 Web Development | 📱 Mobile Apps | 🔍 SEO |
+|:---:|:---:|:---:|
+| React · Next.js · Vue.js | React Native | On-page & technical SEO |
+
+| ⚙️ Backend | ⚡ Performance |
+|:---:|:---:|
+| Node.js · Express · MongoDB | Core Web Vitals · Lighthouse audits |
+
+</div>
+
+---
+
+## 📁 Featured Work
+
+| Project | Description |
+|---|---|
+| **Record Keeper POS** | Cutting-edge point-of-sale system streamlining payment processing. |
+
+*Detailed case studies, live demos, and source insights are available on [my portfolio](https://ejaz-developer.me).*
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+*⚡ Pixel-perfect. Performance-obsessed. Problem-solver.*
+
+</div>
