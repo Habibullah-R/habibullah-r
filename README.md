@@ -1,16 +1,14 @@
 <div align="center">
 
-# ⚡ Ejaz Ali
+# ⚡ Habibullah
 
 ### **Problem Solver & Full-Stack Architect**
 
-📍 Based in Skardu, Pakistan  
-*3+ years of crafting scalable, pixel-perfect web experiences with the MERN & Next.js stack*
+📍 Based in Pakistan
+*1+ year of crafting scalable, pixel-perfect web experiences with the MERN & Next.js stack*
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-ejaz--developer.me-00BFFF?style=for-the-badge&labelColor=0d1117)](https://ejaz-developer.me)
-[![Email](https://img.shields.io/badge/✉_EMAIL-devpro.ejazali36%40gmail.com-FF6B6B?style=for-the-badge&labelColor=0d1117)](mailto:devpro.ejazali36@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-ejaz--developer-6e40c9?style=for-the-badge&labelColor=0d1117)](https://github.com/ejaz-developer)
-[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-@ejazali__dev-E1306C?style=for-the-badge&labelColor=0d1117)](https://instagram.com/ejazali_dev)
+[![Email](https://img.shields.io/badge/✉_EMAIL-habibullahrashid150%40gmail.com-FF6B6B?style=for-the-badge&labelColor=0d1117)](mailto:habibullahrashid150@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-YOUR__USERNAME-6e40c9?style=for-the-badge&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -28,7 +26,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 
 | 🏅 Experience | 🚀 Projects | 🧰 Tech Stack |
 |:---:|:---:|:---:|
-| **3+ Years** | **5+ Completed** | **10+ Technologies** |
+| **1+ Year** | **3+ Completed** | **10+ Technologies** |
 
 </div>
 
@@ -41,7 +39,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ✅ Frontend Developer
-**2021 – Present**
+**2024 – Present**
 - Interactive & responsive apps with React, Next.js, Tailwind CSS
 - Seamless integration with cross-functional teams
 
@@ -49,7 +47,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### 📱 Mobile App Development
-**2023 – Present**
+**2024 – Present**
 - High-performance mobile apps using React Native
 - Optimized UX & performance across platforms
 
@@ -59,7 +57,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ⚙️ Backend Development
-**2018 – Present**
+**2024 – Present**
 - Robust server-side logic with Node.js, Express, MongoDB
 - RESTful APIs & third-party integrations
 
@@ -67,7 +65,7 @@ I'm a full-stack developer focused on building clean, performant, and user-centr
 <td valign="top" width="50%">
 
 ### ⚡ Performance Optimization
-**2017 – Present**
+**2024 – Present**
 - Speed audits & optimization (Core Web Vitals, Lighthouse)
 - Delivered exceptional user experiences
 
@@ -118,17 +116,17 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 
 | Project | Description |
 |---|---|
-| **Record Keeper POS** | Cutting-edge point-of-sale system streamlining payment processing. |
-
-*Detailed case studies, live demos, and source insights are available on [my portfolio](https://ejaz-developer.me).*
+| **Shoutouting.com** | Designed and built the complete frontend for the Shoutouting platform with a modern, responsive UI. |
+| **ChatBridge** | Web-based multilingual chat application enabling seamless real-time communication across language barriers. |
+| **RAG for LMS** | AI-powered retrieval system that answers student questions using only the lesson currently open on screen. |
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejaz-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=FF6B6B&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-developer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff)
 
 </div>
 
