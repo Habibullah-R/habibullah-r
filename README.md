@@ -118,7 +118,7 @@ I combine technical mastery with creative intuition to deliver solutions that ar
 |---|---|
 | **Shoutouting.com** | Designed and built the complete frontend for the Shoutouting platform with a modern, responsive UI. |
 | **ChatBridge** | Web-based multilingual chat application enabling seamless real-time communication across language barriers. |
-| **RAG for LMS** | AI-powered retrieval system that answers student questions using only the lesson currently open on screen. |
+| **RAG based chatbot for LMS** | AI-powered retrieval system that answers student questions using only the lesson currently open on screen. |
 
 ---
 
